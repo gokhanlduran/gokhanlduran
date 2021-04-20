@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gokhanlduran
+- 👀 I’m interested in developing a game
+- 🌱 I’m currently learning Unity
+- 📫 How to reach me gokhadduran@gmail.com
